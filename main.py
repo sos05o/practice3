@@ -8,3 +8,4 @@ height = height / 100
 bmi = calc_bmi.get_bmi(weight, height)
 
 print(bmi)
+print(bmi)
